@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/refresh.png</file>
+        <file>resources/clear.png</file>
+        <file>resources/craps.png</file>
+        <file>resources/start.png</file>
+        <file>resources/stop.png</file>
+        <file>resources/on.png</file>
+        <file>resources/off.png</file>
+        <file>resources/table.png</file>
+        <file>resources/dice1.png</file>
+        <file>resources/dice2.png</file>
+        <file>resources/dice3.png</file>
+        <file>resources/dice4.png</file>
+        <file>resources/dice5.png</file>
+        <file>resources/dice6.png</file>
+    </qresource>
+</RCC>
